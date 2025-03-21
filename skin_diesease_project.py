@@ -1,3 +1,5 @@
+# Here in this code we have trained custom CNN model on skin diseases dataset.
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
