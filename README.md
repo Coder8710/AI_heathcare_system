@@ -3,7 +3,7 @@ This project focuses on developing a custom-trained Convolutional Neural Network
 
 * Skin disease dataset Link - https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000/data
 
-* Here is the dataset description in points:
+* Here is the dataset description:
    The dataset contains images of skin diseases, with corresponding class labels.
    The dataset consists of 10015 dermatoscopic images.
 
