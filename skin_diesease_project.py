@@ -32,8 +32,10 @@ import pandas as pd
 import os
 import shutil
 
+# Dump all images into a folder and specify the path:
 data_dir = r"C:\Users\ommic\Desktop\HAM10000 dataset\all_images"
 
+# Path to destination directory where we want subfolders of each class
 dest_dir = r"C:\Users\ommic\Desktop\HAM10000 dataset\reorganised"
 
 skin_df2 = pd.read_csv(r"C:\Users\ommic\Desktop\HAM10000 dataset\HAM10000_metadata.csv")
