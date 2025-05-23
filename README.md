@@ -5,6 +5,7 @@ This project focuses on developing a custom-trained Convolutional Neural Network
 
 * Here is the dataset description in points:
    The dataset contains images of skin diseases, with corresponding class labels.
+   The dataset consists of 10015 dermatoscopic images.
 
    The class labels and their corresponding skin diseases are as follows:
 
